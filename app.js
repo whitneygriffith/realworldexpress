@@ -1,3 +1,5 @@
+// Entry point for the app 
+
 var fs = require('fs'),
     http = require('http'),
     path = require('path'),
