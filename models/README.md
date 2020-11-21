@@ -11,7 +11,7 @@ The models folder will be used for storing our data models. These models will co
 
 ## No SQL 
 
-[Mongo DB](https://www.mongodb.com/) and its object modeler [Mongoose](http://mongoosejs.com/)
+[Mongo DB](https://www.mongodb.com/) and its object modeler [Mongoose](http://mongoosejs.com)
 
 [Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-nodejs-application) and its object modeler [Cosmos DB Client Library](https://www.npmjs.com/package/@azure/cosmos)
 
@@ -29,7 +29,7 @@ Create a new file `User.js`
 
 Create the schema for the *User Model* in `User.js`
 
-Add validations to the *User Model*
+Add validations to the *User Model* such as email REGEX and unique validation
 
 
 
