@@ -1,0 +1,1 @@
+The models folder will be used for storing our [Mongoose](http://mongoosejs.com/) models. These models will contain the schema for our data and will be the entry point for how our data gets in and out of MongoDB.

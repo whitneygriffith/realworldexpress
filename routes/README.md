@@ -1,0 +1,1 @@
+The routes folder is where we define the routes that our application will respond to and will contain the logic for our endpoints.
